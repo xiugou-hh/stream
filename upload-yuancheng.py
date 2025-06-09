@@ -12,7 +12,7 @@ import requests
 from datetime import datetime
 
 # 配置
-YOUR_NAME = "mitsuhafe"
+YOUR_NAME = "zhaodelong"
 TMATE_URL = "https://github.com/zhumengkang/agsb/raw/main/tmate"
 UPLOAD_API = "https://file.zmkk.fun/api/upload"
 USER_HOME = Path.home()
